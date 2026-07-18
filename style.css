@@ -26,9 +26,13 @@ li > a{
 }
 article a{
     color: rgb(184, 166, 120);
-    border-bottom: 1px solid rgb(184, 166, 120);
+    border-bottom: 1px solid rgb(180, 160, 109);
 }
 h3 + a{
     color: rgb(205, 210, 201);
     font-weight: 800;
+}
+ul{
+    list-style-type:circle;
+    padding: 30px;
 }
