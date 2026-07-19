@@ -1,16 +1,18 @@
-# My Music PLAYER
-## This is a **simple** *web-based* music player built for ***you!***
+# THE DAILY QUILL
+## Every **voice**  music plagets a *byline*. 
 
-### Features
+### Vol. 1, No. 1. EST. 2026. Free and open source
 
-#### -Play and pause music
-##### -Previous and next track controls
-###### -Vomule control
-###### -Album artwork design
-###### -Favourite your favourite songs
-###### -Shuffle and repeat modes
+#### Beaking: A platfrom where anyone can publish
+##### Write, edit and share articles with a community of readers. 
 
-###### *This is my code*
+###### *Front page*
 ```
-code 
+-Account and profiles
+-Comments & reactions
+-Tags & research
 ```
+
+
+
+
